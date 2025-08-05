@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manuel Monegro\\Documents\\GitHub\\Hosting-Service\\HostingServiceBackend\\HostingServiceBackend.csproj",
+      "projectUniqueName": "C:\\Users\\Manuel Monegro\\Documents\\GitHub\\Hosting-Backend\\HostingServiceBackend.csproj",
       "projectName": "HostingServiceBackend",
-      "projectPath": "C:\\Users\\Manuel Monegro\\Documents\\GitHub\\Hosting-Service\\HostingServiceBackend\\HostingServiceBackend.csproj",
+      "projectPath": "C:\\Users\\Manuel Monegro\\Documents\\GitHub\\Hosting-Backend\\HostingServiceBackend.csproj",
       "packagesPath": "C:\\Users\\Manuel Monegro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manuel Monegro\\Documents\\GitHub\\Hosting-Service\\HostingServiceBackend\\obj\\",
+      "outputPath": "C:\\Users\\Manuel Monegro\\Documents\\GitHub\\Hosting-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Manuel Monegro\\AppData\\Roaming\\NuGet\\NuGet.Config",

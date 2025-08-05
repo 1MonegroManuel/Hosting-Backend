@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VH10ddMX1es=",
+  "dgSpecHash": "lFaLTeiHEsY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Manuel Monegro\\Documents\\GitHub\\Hosting-Service\\HostingServiceBackend\\HostingServiceBackend.csproj",
+  "projectFilePath": "C:\\Users\\Manuel Monegro\\Documents\\GitHub\\Hosting-Backend\\HostingServiceBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Manuel Monegro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.18\\microsoft.aspnetcore.openapi.8.0.18.nupkg.sha512",
     "C:\\Users\\Manuel Monegro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
