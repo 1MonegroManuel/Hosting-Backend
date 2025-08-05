@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9SVQYkvP8b0mMfpKD1uTLbbpvv05Z3qXc48fRtja640=",
+  "Source": "HostingServiceBackend",
+  "BasePath": "_content/HostingServiceBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
